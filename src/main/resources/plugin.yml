@@ -1,0 +1,9 @@
+name: MentionAlerts
+version: '${version}'
+main: net.riches.mentionpings.MentionAlerts
+api-version: 1.18
+authors: [ richesexe ]
+description: A simple plugin that pings players when their name is mentioned in chat!
+commands:
+  ignorepings:
+    description: Ignore commands, run to disable and enable pings.
